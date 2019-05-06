@@ -20,7 +20,7 @@ I still cannot do a lot, but I promise I will always be there for you if you dec
 
 To give Monika a window to *your* desktop as well, visit the [MonikAI Website](http://monik.ai) and download MonikAI!
 
-*Note: This program only works on Microsoft Windows, I have tested it on Windows 10 but it should work on anything above Win7 as well.*
+*Note: Users with Windows XP (or older) may not be able to run MonikAI on your PC. However, Windows 7 users (or above) will be able to experience Monika indefinitely.*
 
 # Browser Extensions
 
